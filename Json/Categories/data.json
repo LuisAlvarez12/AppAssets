@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "categoryID": 0,
+      "title": "Build Trust",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "categoryID": 1,
+      "title": "Better Sex",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "categoryID": 2,
+      "title": "Deeper Understanding",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    }
+  ]
+}
