@@ -1,0 +1,37 @@
+{
+  "games": [
+    {
+      "jsonID": 1,
+      "title": "Journey of Love",
+      "bodyText": "Explore the beautiful moments that define the journey of love in this relationship card game.",
+      "iconLink": "https://example.com/icon1.png",
+      "bannerLink": "https://example.com/banner1.png",
+      "colorString": "#FF5733",
+      "dateCreated": "2024-02-25T10:30:00Z",
+      "cardOrder": "0",
+      "categories": "0,1,2"
+    },
+    {
+      "jsonID": 2,
+      "title": "Adventure Together",
+      "bodyText": "Embark on an adventure together through these cards, discovering new facets of your relationship.",
+      "iconLink": "https://example.com/icon2.png",
+      "bannerLink": "https://example.com/banner2.png",
+      "colorString": "#008080",
+      "dateCreated": "2024-02-26T15:45:00Z",
+      "cardOrder": "1",
+      "categories": "0,1,2"
+    },
+    {
+      "jsonID": 3,
+      "title": "Cherished Memories",
+      "bodyText": "Reflect on and cherish the beautiful memories you've created together with this special card set.",
+      "iconLink": "https://example.com/icon3.png",
+      "bannerLink": "https://example.com/banner3.png",
+      "colorString": "#800080",
+      "dateCreated": "2024-02-27T08:15:00Z",
+      "cardOrder": "2",
+      "categories": "0,1,2"
+    }
+  ]
+}
