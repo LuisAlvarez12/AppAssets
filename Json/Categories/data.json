@@ -2,7 +2,7 @@
   "categories": [
     {
       "jsonID": 0,
-      "title": "Build Trust",
+      "title": "Trust Builders",
       "smallImage": "your_couple_image_url",
       "largeImage": "your_couple_image_url"
     },
@@ -15,6 +15,90 @@
     {
       "jsonID": 2,
       "title": "Deeper Understanding",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 3,
+      "title": "Future Focus",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 4,
+      "title": "Adventure Time",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 5,
+      "title": "Love Languages",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 6,
+      "title": "Deeper Desires",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 7,
+      "title": "Cultural Exchange",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 8,
+      "title": "Cultural Exchange",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 9,
+      "title": "Marriage Support",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 10,
+      "title": "Bucket List",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 11,
+      "title": "Newly Dating",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 12,
+      "title": "Recently Married",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 13,
+      "title": "Wedding Plans",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 14,
+      "title": "Loss of a Loved One",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 15,
+      "title": "Relationship Trivia",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "your_couple_image_url"
+    },
+    {
+      "jsonID": 16,
+      "title": "Stronger Intimacy",
       "smallImage": "your_couple_image_url",
       "largeImage": "your_couple_image_url"
     }
