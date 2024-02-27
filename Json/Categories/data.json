@@ -44,7 +44,7 @@
     },
     {
       "jsonID": 7,
-      "title": "Cultural Exchange",
+      "title": "Loyalty Bounds",
       "smallImage": "your_couple_image_url",
       "largeImage": "https://raw.githubusercontent.com/LuisAlvarez12/AppAssets/main/OurLove/Categories/7.png"
     },
@@ -101,6 +101,12 @@
       "title": "Stronger Intimacy",
       "smallImage": "your_couple_image_url",
       "largeImage": "https://raw.githubusercontent.com/LuisAlvarez12/AppAssets/main/OurLove/Categories/16.png"
+    },
+    {
+      "jsonID": 17,
+      "title": "Parental Prep",
+      "smallImage": "your_couple_image_url",
+      "largeImage": "https://raw.githubusercontent.com/LuisAlvarez12/AppAssets/main/OurLove/Categories/17.png"
     }
   ]
 }
