@@ -1,135 +1,394 @@
 {
-    "games": [
-      {
-        "jsonID": 1,
-        "title": "Journey of Love",
-        "bodyText": "Explore the beautiful moments that define the journey of love in this relationship card game.",
-        "dateCreated": "2024-02-25T10:30:00Z",
-        "cardOrder": "0",
-        "enabledVersion": "1.0",
-        "categories": "0,1,2",
-        "cards": [
-            {
-                "jsonID": 1,
-                "title": "On a scale of 1 to 10, how satisfied are you with our current sex life?"
-              },
-              {
-                "jsonID": 2,
-                "title": "What is one positive memory or moment related to our intimacy that stands out to you?"
-              },
-              {
-                "jsonID": 3,
-                "title": "How comfortable do you feel discussing our sex life openly?"
-              },
-              {
-                "jsonID": 4,
-                "title": "What frequency of intimacy do you find ideal for our relationship?"
-              },
-              {
-                "jsonID": 5,
-                "title": "Do you have any preferences or desires regarding who initiates intimacy?"
-              },
-              {
-                "jsonID": 6,
-                "title": "Can you share one or two things that really turn you on?"
-              },
-              {
-                "jsonID": 7,
-                "title": "How do you feel about increasing the amount of non-sexual physical affection in our daily lives?"
-              },
-              {
-                "jsonID": 8,
-                "title": "Are there any fantasies or role-playing scenarios you would like to explore together?"
-              },
-              {
-                "jsonID": 9,
-                "title": "How can we improve communication about our desires and preferences in the moment?"
-              },
-              {
-                "jsonID": 10,
-                "title": "Are there specific things you'd like to try or experiment with in the bedroom?"
-              },
-              {
-                "jsonID": 11,
-                "title": "What type of environment or setting enhances your mood for intimacy?"
-              },
-              {
-                "jsonID": 12,
-                "title": "How can we take turns initiating intimacy to ensure a balanced approach?"
-              },
-              {
-                "jsonID": 13,
-                "title": "In what ways can we increase affection and connection outside of intimate moments?"
-              },
-              {
-                "jsonID": 14,
-                "title": "How do you think our emotional connection impacts our physical intimacy?"
-              },
-              {
-                "jsonID": 15,
-                "title": "What can we do to promote body positivity and acceptance in our intimate moments?"
-              },
-              {
-                "jsonID": 16,
-                "title": "Do you have specific sensory preferences (touch, taste, smell) that enhance your experience?"
-              },
-              {
-                "jsonID": 17,
-                "title": "How often would you like to have check-ins to discuss our sex life and ensure satisfaction?"
-              },
-              {
-                "jsonID": 18,
-                "title": "Are there common desires or interests we haven't explored yet that you'd like to discuss?"
-              },
-              {
-                "jsonID": 19,
-                "title": "How can we ensure that both of us feel comfortable expressing our desires and boundaries?"
-              },
-              {
-                "jsonID": 20,
-                "title": "Are you open to exploring erotic content together, such as literature or videos?"
-              },
-              {
-                "jsonID": 21,
-                "title": "How do you feel about incorporating sensual massages into our routine?"
-              },
-              {
-                "jsonID": 22,
-                "title": "Are there any sexual health concerns or considerations we should address together?"
-              },
-              {
-                "jsonID": 23,
-                "title": "Can you share more specific preferences you have regarding our physical intimacy?"
-              },
-              {
-                "jsonID": 24,
-                "title": "How satisfied are you with the variety and creativity in our intimate experiences?"
-              },
-              {
-                "jsonID": 25,
-                "title": "What steps can we take to explore each other's deeper, more intimate desires?"
-              },
-              {
-                "jsonID": 26,
-                "title": "In what ways can we deepen our emotional vulnerability to enhance our connection?"
-              },
-              {
-                "jsonID": 27,
-                "title": "What actions or changes can we make to enhance each other's satisfaction?"
-              },
-              {
-                "jsonID": 28,
-                "title": "Are there ultimate intimate desires you have that you haven't shared before?"
-              },
-              {
-                "jsonID": 29,
-                "title": "How can we strengthen our overall connection and trust to improve our sex life?"
-              },
-              {
-                "jsonID": 30,
-                "title": "What are some goals or aspirations you have for our sex life in the future?"
-              }
-        ]
-      }
-    ]
+  "games": [
+    {
+      "jsonID": 1,
+      "title": "Path to Pleasure",
+      "bodyText": "Explore the beautiful moments that define the journey of love in this relationship card game.",
+      "dateCreated": "2024-02-25T10:30:00Z",
+      "enabledVersion": "1.0",
+      "categories": "0,1,2",
+      "cards": [
+        {
+          "jsonID": 1,
+          "title": "On a scale of 1 to 10, how satisfied are you with our current sex life?"
+        },
+        {
+          "jsonID": 2,
+          "title": "What is one positive memory or moment related to our intimacy that stands out to you?"
+        },
+        {
+          "jsonID": 3,
+          "title": "How comfortable do you feel discussing our sex life openly?"
+        },
+        {
+          "jsonID": 4,
+          "title": "What frequency of intimacy do you find ideal for our relationship?"
+        },
+        {
+          "jsonID": 5,
+          "title": "Do you have any preferences or desires regarding who initiates intimacy?"
+        },
+        {
+          "jsonID": 6,
+          "title": "Can you share one or two things that really turn you on?"
+        },
+        {
+          "jsonID": 7,
+          "title": "How do you feel about increasing the amount of non-sexual physical affection in our daily lives?"
+        },
+        {
+          "jsonID": 8,
+          "title": "Are there any fantasies or role-playing scenarios you would like to explore together?"
+        },
+        {
+          "jsonID": 9,
+          "title": "How can we improve communication about our desires and preferences in the moment?"
+        },
+        {
+          "jsonID": 10,
+          "title": "Are there specific things you'd like to try or experiment with in the bedroom?"
+        },
+        {
+          "jsonID": 11,
+          "title": "What type of environment or setting enhances your mood for intimacy?"
+        },
+        {
+          "jsonID": 12,
+          "title": "How can we take turns initiating intimacy to ensure a balanced approach?"
+        },
+        {
+          "jsonID": 13,
+          "title": "In what ways can we increase affection and connection outside of intimate moments?"
+        },
+        {
+          "jsonID": 14,
+          "title": "How do you think our emotional connection impacts our physical intimacy?"
+        },
+        {
+          "jsonID": 15,
+          "title": "What can we do to promote body positivity and acceptance in our intimate moments?"
+        },
+        {
+          "jsonID": 16,
+          "title": "Do you have specific sensory preferences (touch, taste, smell) that enhance your experience?"
+        },
+        {
+          "jsonID": 17,
+          "title": "How often would you like to have check-ins to discuss our sex life and ensure satisfaction?"
+        },
+        {
+          "jsonID": 18,
+          "title": "Are there common desires or interests we haven't explored yet that you'd like to discuss?"
+        },
+        {
+          "jsonID": 19,
+          "title": "How can we ensure that both of us feel comfortable expressing our desires and boundaries?"
+        },
+        {
+          "jsonID": 20,
+          "title": "Are you open to exploring erotic content together, such as literature or videos?"
+        },
+        {
+          "jsonID": 21,
+          "title": "How do you feel about incorporating sensual massages into our routine?"
+        },
+        {
+          "jsonID": 22,
+          "title": "Are there any sexual health concerns or considerations we should address together?"
+        },
+        {
+          "jsonID": 23,
+          "title": "Can you share more specific preferences you have regarding our physical intimacy?"
+        },
+        {
+          "jsonID": 24,
+          "title": "How satisfied are you with the variety and creativity in our intimate experiences?"
+        },
+        {
+          "jsonID": 25,
+          "title": "What steps can we take to explore each other's deeper, more intimate desires?"
+        },
+        {
+          "jsonID": 26,
+          "title": "In what ways can we deepen our emotional vulnerability to enhance our connection?"
+        },
+        {
+          "jsonID": 27,
+          "title": "What actions or changes can we make to enhance each other's satisfaction?"
+        },
+        {
+          "jsonID": 28,
+          "title": "Are there ultimate intimate desires you have that you haven't shared before?"
+        },
+        {
+          "jsonID": 29,
+          "title": "How can we strengthen our overall connection and trust to improve our sex life?"
+        },
+        {
+          "jsonID": 30,
+          "title": "What are some goals or aspirations you have for our sex life in the future?"
+        }
+      ]
+    },
+    {
+      "jsonID": 2,
+      "title": "Our Road Ahead",
+      "bodyText": "Look toward the future if you are still early in your relationship.",
+      "dateCreated": "2024-02-25T10:30:00Z",
+      "enabledVersion": "1.0",
+      "categories": "0,1,2",
+      "cards": [
+        {
+          "jsonID": 1,
+          "title": "What are your individual goals for the next year?"
+        },
+        {
+          "jsonID": 2,
+          "title": "How do you envision spending holidays together in the future?"
+        },
+        {
+          "jsonID": 3,
+          "title": "What is your preferred way of resolving conflicts?"
+        },
+        {
+          "jsonID": 4,
+          "title": "Do you see us living in the same city long-term?"
+        },
+        {
+          "jsonID": 5,
+          "title": "What qualities do you admire in a life partner?"
+        },
+        {
+          "jsonID": 6,
+          "title": "How do you handle financial decisions and planning?"
+        },
+        {
+          "jsonID": 7,
+          "title": "What are your career aspirations, and how might they impact our relationship?"
+        },
+        {
+          "jsonID": 8,
+          "title": "How important is having a family to you?"
+        },
+        {
+          "jsonID": 9,
+          "title": "How do you picture your ideal home?"
+        },
+        {
+          "jsonID": 10,
+          "title": "What hobbies or activities do you see us doing together in the long run?"
+        },
+        {
+          "jsonID": 11,
+          "title": "Where do you see yourselves in five years?"
+        },
+        {
+          "jsonID": 12,
+          "title": "What values are most important to you in a long-term relationship?"
+        },
+        {
+          "jsonID": 13,
+          "title": "How would you like to share responsibilities in a future household?"
+        },
+        {
+          "jsonID": 14,
+          "title": "What role does spirituality or religion play in your vision for the future?"
+        },
+        {
+          "jsonID": 15,
+          "title": "How would you like to handle major life changes or challenges as a couple?"
+        },
+        {
+          "jsonID": 16,
+          "title": "What are your thoughts on combining finances in the future?"
+        },
+        {
+          "jsonID": 17,
+          "title": "How do you handle stress, and how can we support each other during tough times?"
+        },
+        {
+          "jsonID": 18,
+          "title": "Do you see us traveling together in the coming years?"
+        },
+        {
+          "jsonID": 19,
+          "title": "How do you prioritize personal space and alone time in a relationship?"
+        },
+        {
+          "jsonID": 20,
+          "title": "How important is it for you to maintain connections with extended family?"
+        },
+        {
+          "jsonID": 21,
+          "title": "What role should friends play in our lives as a couple?"
+        },
+        {
+          "jsonID": 22,
+          "title": "What kind of legacy do you want to leave together?"
+        },
+        {
+          "jsonID": 23,
+          "title": "How would you like to divide household chores and responsibilities?"
+        },
+        {
+          "jsonID": 24,
+          "title": "What are your thoughts on career vs. family balance?"
+        },
+        {
+          "jsonID": 25,
+          "title": "How do you handle uncertainty and change?"
+        },
+        {
+          "jsonID": 26,
+          "title": "What kind of support do you need from your partner during challenging times?"
+        },
+        {
+          "jsonID": 27,
+          "title": "How do you view the concept of retirement, and how does it fit into our future plans?"
+        },
+        {
+          "jsonID": 28,
+          "title": "What is your preferred communication style during difficult conversations?"
+        },
+        {
+          "jsonID": 29,
+          "title": "How do you define success in a relationship?"
+        },
+        {
+          "jsonID": 30,
+          "title": "How do you plan to maintain intimacy and connection over the years?"
+        },
+        {
+          "jsonID": 31,
+          "title": "What are your thoughts on continuing education and personal growth as a couple?"
+        },
+        {
+          "jsonID": 32,
+          "title": "How do you imagine spending your free time together as retirees?"
+        },
+        {
+          "jsonID": 33,
+          "title": "What kind of traditions do you want to establish as a couple?"
+        },
+        {
+          "jsonID": 34,
+          "title": "How important is it for us to share common interests and hobbies?"
+        },
+        {
+          "jsonID": 35,
+          "title": "What role does health and wellness play in our long-term plans?"
+        },
+        {
+          "jsonID": 36,
+          "title": "How do you feel about joint decision-making in the relationship?"
+        },
+        {
+          "jsonID": 37,
+          "title": "How would you like to support each other's individual dreams and aspirations?"
+        },
+        {
+          "jsonID": 38,
+          "title": "What steps can we take to ensure our relationship remains strong over time?"
+        },
+        {
+          "jsonID": 39,
+          "title": "How do you envision celebrating milestones and achievements together?"
+        },
+        {
+          "jsonID": 40,
+          "title": "What legacy or impact do you hope our relationship will have on others?"
+        }
+      ]
+    },
+    {
+      "jsonID": 3,
+      "title": "Parental Practice",
+      "bodyText": "Prepare for the road to parenthood",
+      "dateCreated": "2024-02-25T10:30:00Z",
+      "enabledVersion": "1.0",
+      "categories": "0,1,2",
+      "cards": [
+        {
+          "jsonID": 1,
+          "title": "What are your initial thoughts about having children someday?"
+        },
+        {
+          "jsonID": 2,
+          "title": "How do you feel about the idea of being parents in the future?"
+        },
+        {
+          "jsonID": 3,
+          "title": "What values do you believe are important to instill in our children?"
+        },
+        {
+          "jsonID": 4,
+          "title": "How do you envision balancing work and family life as parents?"
+        },
+        {
+          "jsonID": 5,
+          "title": "What are your thoughts on the number of children you'd like to have?"
+        },
+        {
+          "jsonID": 6,
+          "title": "How do you plan to share parenting responsibilities?"
+        },
+        {
+          "jsonID": 7,
+          "title": "How would you approach disciplining and setting boundaries for our children?"
+        },
+        {
+          "jsonID": 8,
+          "title": "What role do you see extended family playing in our children's lives?"
+        },
+        {
+          "jsonID": 9,
+          "title": "How important is formal education in your vision of parenthood?"
+        },
+        {
+          "jsonID": 10,
+          "title": "What parenting styles do you admire or find effective?"
+        },
+        {
+          "jsonID": 11,
+          "title": "How do you plan to prioritize quality time with our children?"
+        },
+        {
+          "jsonID": 12,
+          "title": "What kind of activities or traditions would you like to do as a family?"
+        },
+        {
+          "jsonID": 13,
+          "title": "How do you view the use of technology in our children's lives?"
+        },
+        {
+          "jsonID": 14,
+          "title": "What role should religion or spirituality play in our children's upbringing?"
+        },
+        {
+          "jsonID": 15,
+          "title": "How do you plan to support our children's individual interests and talents?"
+        },
+        {
+          "jsonID": 16,
+          "title": "What is your stance on balancing a career with active involvement in our children's lives?"
+        },
+        {
+          "jsonID": 17,
+          "title": "How would you handle disagreements on parenting decisions?"
+        },
+        {
+          "jsonID": 18,
+          "title": "How do you plan to address and navigate challenges that may arise in parenthood?"
+        },
+        {
+          "jsonID": 19,
+          "title": "What kind of support do you expect from each other during the early stages of parenting?"
+        },
+        {
+          "jsonID": 20,
+          "title": "How do you envision creating a loving and supportive family environment for our children?"
+        }
+      ]
+    }
+  ]
 }
