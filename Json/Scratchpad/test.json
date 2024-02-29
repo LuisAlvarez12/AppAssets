@@ -1,6 +1,136 @@
 {
   "games": [
     {
+      "jsonID": 1,
+      "title": "Path to Pleasure",
+      "bodyText": "Explore the beautiful moments that define the journey of love in this relationship card game.",
+      "dateCreated": "2024-02-25T10:30:00Z",
+      "enabledVersion": "1.0",
+      "categories": "0,1,2",
+      "cards": [
+        {
+          "jsonID": 1,
+          "title": "On a scale of 1 to 10, how satisfied are you with our current sex life?"
+        },
+        {
+          "jsonID": 2,
+          "title": "What is one positive memory or moment related to our intimacy that stands out to you?"
+        },
+        {
+          "jsonID": 3,
+          "title": "How comfortable do you feel discussing our sex life openly?"
+        },
+        {
+          "jsonID": 4,
+          "title": "What frequency of intimacy do you find ideal for our relationship?"
+        },
+        {
+          "jsonID": 5,
+          "title": "Do you have any preferences or desires regarding who initiates intimacy?"
+        },
+        {
+          "jsonID": 6,
+          "title": "Can you share one or two things that really turn you on?"
+        },
+        {
+          "jsonID": 7,
+          "title": "How do you feel about increasing the amount of non-sexual physical affection in our daily lives?"
+        },
+        {
+          "jsonID": 8,
+          "title": "Are there any fantasies or role-playing scenarios you would like to explore together?"
+        },
+        {
+          "jsonID": 9,
+          "title": "How can we improve communication about our desires and preferences in the moment?"
+        },
+        {
+          "jsonID": 10,
+          "title": "Are there specific things you'd like to try or experiment with in the bedroom?"
+        },
+        {
+          "jsonID": 11,
+          "title": "What type of environment or setting enhances your mood for intimacy?"
+        },
+        {
+          "jsonID": 12,
+          "title": "How can we take turns initiating intimacy to ensure a balanced approach?"
+        },
+        {
+          "jsonID": 13,
+          "title": "In what ways can we increase affection and connection outside of intimate moments?"
+        },
+        {
+          "jsonID": 14,
+          "title": "How do you think our emotional connection impacts our physical intimacy?"
+        },
+        {
+          "jsonID": 15,
+          "title": "What can we do to promote body positivity and acceptance in our intimate moments?"
+        },
+        {
+          "jsonID": 16,
+          "title": "Do you have specific sensory preferences (touch, taste, smell) that enhance your experience?"
+        },
+        {
+          "jsonID": 17,
+          "title": "How often would you like to have check-ins to discuss our sex life and ensure satisfaction?"
+        },
+        {
+          "jsonID": 18,
+          "title": "Are there common desires or interests we haven't explored yet that you'd like to discuss?"
+        },
+        {
+          "jsonID": 19,
+          "title": "How can we ensure that both of us feel comfortable expressing our desires and boundaries?"
+        },
+        {
+          "jsonID": 20,
+          "title": "Are you open to exploring erotic content together, such as literature or videos?"
+        },
+        {
+          "jsonID": 21,
+          "title": "How do you feel about incorporating sensual massages into our routine?"
+        },
+        {
+          "jsonID": 22,
+          "title": "Are there any sexual health concerns or considerations we should address together?"
+        },
+        {
+          "jsonID": 23,
+          "title": "Can you share more specific preferences you have regarding our physical intimacy?"
+        },
+        {
+          "jsonID": 24,
+          "title": "How satisfied are you with the variety and creativity in our intimate experiences?"
+        },
+        {
+          "jsonID": 25,
+          "title": "What steps can we take to explore each other's deeper, more intimate desires?"
+        },
+        {
+          "jsonID": 26,
+          "title": "In what ways can we deepen our emotional vulnerability to enhance our connection?"
+        },
+        {
+          "jsonID": 27,
+          "title": "What actions or changes can we make to enhance each other's satisfaction?"
+        },
+        {
+          "jsonID": 28,
+          "title": "Are there ultimate intimate desires you have that you haven't shared before?"
+        },
+        {
+          "jsonID": 29,
+          "title": "How can we strengthen our overall connection and trust to improve our sex life?"
+        },
+        {
+          "jsonID": 30,
+          "title": "What are some goals or aspirations you have for our sex life in the future?"
+        }
+      ]
+    },
+    {
       "jsonID": 2,
       "title": "Our Road Ahead",
       "bodyText": "Look toward the future if you are still early in your relationship.",
