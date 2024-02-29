@@ -169,6 +169,96 @@
           "title": "What legacy or impact do you hope our relationship will have on others?"
         }
       ]
+    },
+    {
+      "jsonID": 3,
+      "title": "Parental Practice",
+      "bodyText": "Prepare for the road to parenthood",
+      "dateCreated": "2024-02-25T10:30:00Z",
+      "enabledVersion": "1.0",
+      "categories": "0,1,2",
+      "cards": [
+        {
+          "jsonID": 1,
+          "title": "What are your initial thoughts about having children someday?"
+        },
+        {
+          "jsonID": 2,
+          "title": "How do you feel about the idea of being parents in the future?"
+        },
+        {
+          "jsonID": 3,
+          "title": "What values do you believe are important to instill in our children?"
+        },
+        {
+          "jsonID": 4,
+          "title": "How do you envision balancing work and family life as parents?"
+        },
+        {
+          "jsonID": 5,
+          "title": "What are your thoughts on the number of children you'd like to have?"
+        },
+        {
+          "jsonID": 6,
+          "title": "How do you plan to share parenting responsibilities?"
+        },
+        {
+          "jsonID": 7,
+          "title": "How would you approach disciplining and setting boundaries for our children?"
+        },
+        {
+          "jsonID": 8,
+          "title": "What role do you see extended family playing in our children's lives?"
+        },
+        {
+          "jsonID": 9,
+          "title": "How important is formal education in your vision of parenthood?"
+        },
+        {
+          "jsonID": 10,
+          "title": "What parenting styles do you admire or find effective?"
+        },
+        {
+          "jsonID": 11,
+          "title": "How do you plan to prioritize quality time with our children?"
+        },
+        {
+          "jsonID": 12,
+          "title": "What kind of activities or traditions would you like to do as a family?"
+        },
+        {
+          "jsonID": 13,
+          "title": "How do you view the use of technology in our children's lives?"
+        },
+        {
+          "jsonID": 14,
+          "title": "What role should religion or spirituality play in our children's upbringing?"
+        },
+        {
+          "jsonID": 15,
+          "title": "How do you plan to support our children's individual interests and talents?"
+        },
+        {
+          "jsonID": 16,
+          "title": "What is your stance on balancing a career with active involvement in our children's lives?"
+        },
+        {
+          "jsonID": 17,
+          "title": "How would you handle disagreements on parenting decisions?"
+        },
+        {
+          "jsonID": 18,
+          "title": "How do you plan to address and navigate challenges that may arise in parenthood?"
+        },
+        {
+          "jsonID": 19,
+          "title": "What kind of support do you expect from each other during the early stages of parenting?"
+        },
+        {
+          "jsonID": 20,
+          "title": "How do you envision creating a loving and supportive family environment for our children?"
+        }
+      ]
     }
   ]
 }
